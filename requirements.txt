@@ -1,3 +1,0 @@
-Flask>=3.1,<4
-yt-dlp[default]>=2026.1
-yt-dlp-getpot-wpc>=0.2
